@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on **my logic-building and problem solving skill**
 - 👨‍💻 Apart from devlopment **Love to do Competitive Programing**
 - 🌱 I’m currently learning **Data Structure and Algorithms And Sharpening my Frontend Skill**
-- 👯 I’m looking to collaborate on **on OneSource Project**
+- 👯 I’m looking to collaborate on **on OpenSource Project**
 - ⚡ Fun fact **I am a night owl , love to work at mid-night**
   </div>
 
