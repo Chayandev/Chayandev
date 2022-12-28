@@ -40,7 +40,8 @@
 
 <p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=chayandev&theme=dark&background=000000" alt="chayandev" /></p>
                                                                                                                                          
-### 📊 My Stats :                                                                                                                              <p><img  align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayandev&layout=compact&theme=vision-friendly-dark" /></p>          
+### 📊 My Stats : 
+                                                                                                                                         <p><img  align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayandev&layout=compact&theme=vision-friendly-dark" /></p>          
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Chayandev&show_icons=true&theme=highcontrast" /></P>
 &nbsp;
 
