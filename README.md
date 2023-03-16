@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zhlr2KMBoorUZhMNdEXLL3JFBlmkuIDvfeXCApQZGbHNP8gW&s" width="150px"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5072/5072860.png" width="150px"/>
 </div>
 <div id="connection-libks" align="center">
 <p align="center">
