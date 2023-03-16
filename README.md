@@ -19,7 +19,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chayandev&label=Profile%20views&color=0e75b6&style=flat" alt="chayandev" /> </p>
 </div>
 <h1 align="center"> Hi there, <img src="https://media0.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b76118a1d3ade6494047a5a889309ca38241b3ce0c20e&rid=giphy.gif&ct=s" width="40px"> I'm Chayandev</h1>
-<h3 align="center">I'm Android Developer and Frontend Developer from India</h3>
+<h3 align="center">I'm Android Developer and Programmer from India</h3>
 <div class="about-me>
 
 <h2 align="left">🙋‍♂️ About Me</h2>
