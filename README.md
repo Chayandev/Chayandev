@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5072/5072860.png" width="150px"/>
+  <img src="https://github.com/user-attachments/assets/4e36c632-6ece-4b70-aff9-ff94802a1b67" width="400px"/>
 </div>
 <div id="connection-libks" align="center">
 <h3 align="center">Connect with me:</h3>
