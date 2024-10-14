@@ -1,6 +1,5 @@
-<div id="header" align="center">
+
 [![An image of @chayandev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chayandev)](https://holopin.io/@chayandev)
-</div>
 <div id="connection-libks" align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
