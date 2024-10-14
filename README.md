@@ -1,4 +1,6 @@
 
+[![An image of @chayandev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chayandev)](https://holopin.io/@chayandev)
+
 <div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/4e36c632-6ece-4b70-aff9-ff94802a1b67" width="400px"/>
 </div>
