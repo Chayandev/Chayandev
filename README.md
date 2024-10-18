@@ -42,11 +42,8 @@
 <h3 align="left">📊 Stats:</h3>
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=220 src="https://github-readme-stats.vercel.app/api/top-langs?username=chayandev&show_icons=true&theme=radical&layout=pie&langs_count=10&card_width=800" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=220 src="https://github-readme-stats.vercel.app/api?username=chayandev&show_icons=true&theme=radical" />
-  </a>
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=chayandev&show_icons=true&theme=radical&layout=pie&langs_count=10&card_width=900" />
+  </a
 </div>
 
 
