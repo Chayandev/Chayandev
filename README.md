@@ -16,7 +16,7 @@
 
 <h2 align="left">🙋‍♂️ About Me</h2>
 
-- 🔭 I’m currently working on **My hackathon Project Be-the-donor Android App**
+- 🔭 I’m currently working on **My own fullstack project Commprep.ai**
 
 - 🌱 I’m currently learning **FullStack-Web & CyberSecurity**
 
