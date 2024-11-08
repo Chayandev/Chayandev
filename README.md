@@ -28,7 +28,7 @@
 <h3 align="left">🚀 Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,javascript,html,css,nodejs,expressjs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,javascript,html,css,nodejs,expressjs,mongodb,tailwindcss,react" />
      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50/>
     </a>
