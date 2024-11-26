@@ -1,5 +1,7 @@
 
 [![An image of @chayandev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chayandev)](https://holopin.io/@chayandev)
+[View my Credly Badge](https://www.credly.com/badges/dfaf67b3-4f74-4a37-8efe-09a2f32ac552)
+
 <div id="connection-libks" align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
