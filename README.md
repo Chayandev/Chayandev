@@ -37,7 +37,7 @@
   - ☁️ Passionate about **Cloud Computing & DevOps**.  
   - 🤖 Experienced in **Native Android Development**.  
   - 🛠️ Always learning and experimenting with new tech stacks.  
-  - 🚀 Check out my projects: [My Portfolio](https://github.com/Chayandev/MyPortfolio).  
+  - 🚀 Check out my projects: [My Portfolio](chayandevbera.vercel.app/).  
 </div>
 
 <h2 align="left">Tech Stack</h2>
