@@ -30,15 +30,24 @@
 </div>
 <hr>
 
-<div class="about-me">
-  <h2 align="left">🙋‍♂️ About Me</h2>
+<table>
+  <tr>
+    <td width="60%">
+      <h2 align="left">🙋‍♂️ About Me</h2>
+      <ul>
+        <li>🔭 I’m currently enhancing my <strong>Full-Stack Development</strong> skills, focusing on <strong>Backend Development</strong>.</li>
+        <li>☁️ Passionate about <strong>Cloud Computing & DevOps</strong>.</li>
+        <li>🤖 Experienced in <strong>Native Android Development</strong>.</li>
+        <li>🛠️ Always learning and experimenting with new tech stacks.</li>
+        <li>🚀 Check out my projects: <a href="https://chayandevbera.vercel.app/">My Portfolio</a>.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/user-attachments/assets/f06c0428-adb0-4ee4-9492-d859a6caaae3" width="400" alt="Chayandev profile image"/>
+    </td>
+  </tr>
+</table>
 
-  - 🔭 I’m currently enhancing my **Full-Stack Development** skills, focusing on **Backend Development**.  
-  - ☁️ Passionate about **Cloud Computing & DevOps**.  
-  - 🤖 Experienced in **Native Android Development**.  
-  - 🛠️ Always learning and experimenting with new tech stacks.  
-  - 🚀 Check out my projects: [My Portfolio](https://chayandevbera.vercel.app/).  
-</div>
 
 <h2 align="left">Tech Stack</h2>
 
