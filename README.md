@@ -32,7 +32,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
       <h2 align="left">🙋‍♂️ About Me</h2>
       <ul>
         <li>🔭 I’m currently enhancing my <strong>Full-Stack Development</strong> skills, focusing on <strong>Backend Development</strong>.</li>
@@ -42,8 +42,8 @@
         <li>🚀 Check out my projects: <a href="https://chayandevbera.vercel.app/">My Portfolio</a>.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/user-attachments/assets/f06c0428-adb0-4ee4-9492-d859a6caaae3" width="400" alt="Chayandev profile image"/>
+   <td width="40%" align="center">
+      <img src="https://github.com/user-attachments/assets/f06c0428-adb0-4ee4-9492-d859a6caaae3" width="450" height="350" alt="Chayandev profile image"/>
     </td>
   </tr>
 </table>
