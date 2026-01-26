@@ -35,9 +35,8 @@
     <td width="60%" valign="top">
       <h2 align="left">🙋‍♂️ About Me</h2>
       <ul>
-        <li>🔭 I’m currently enhancing my <strong>Full-Stack Development</strong> skills, focusing on <strong>Backend Development</strong>.</li>
-        <li>☁️ Passionate about <strong>Cloud Computing & DevOps</strong>.</li>
-        <li>🤖 Experienced in <strong>Native Android Development</strong>.</li>
+        <li>🔭 I’m currently working as <strong>Software engineer-I</strong>
+        <li>☁️ Passionate about <strong>GenAI, ans System design</strong>.</li>
         <li>🛠️ Always learning and experimenting with new tech stacks.</li>
         <li>🚀 Check out my projects: <a href="https://chayandevbera.vercel.app/">My Portfolio</a>.</li>
       </ul>
