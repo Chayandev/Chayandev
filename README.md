@@ -36,7 +36,7 @@
       <h2 align="left">🙋‍♂️ About Me</h2>
       <ul>
         <li>🔭 I’m currently working as <strong>Software engineer-I</strong>
-        <li>☁️ Passionate about <strong>GenAI, ans System design</strong>.</li>
+        <li>☁️ Passionate about <strong>GenAI, and System design</strong>.</li>
         <li>🛠️ Always learning and experimenting with new tech stacks.</li>
         <li>🚀 Check out my projects: <a href="https://chayandevbera.vercel.app/">My Portfolio</a>.</li>
       </ul>
